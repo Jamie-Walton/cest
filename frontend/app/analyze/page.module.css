@@ -1,0 +1,9 @@
+.pageBackground {
+    position: absolute;
+    bottom: 0;
+    background-image: url("../../public/page-bg.svg");
+    background-size: cover;
+    background-repeat: none;
+    width: 100vw;
+    height: 50vh;
+  }
